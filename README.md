@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Currently learning web development
+## Cya soon
+
 <!--
 **costi47C/costi47C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
