@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# Currently learning web development
-## Cya soon
+# 🌱 I’m currently learning C/C++
+## ✨ ✨
 
 <!--
 **costi47C/costi47C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
